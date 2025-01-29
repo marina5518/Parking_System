@@ -34,17 +34,20 @@ This project demonstrates an Automated Parking System that count vehicle entry a
   - **2x 0.01μf**
   - **4x 10μf**
   - **2x 0.1 μf**
-- Jumper wires.
+- **Jumper wires**.
 
 ## :pencil2: Full Circuit Diagram
-on protus simulation:
+On protus simulation:
 ![image](https://github.com/user-attachments/assets/d182a815-fda6-48d5-b50e-50d14dbb7fc4)
 
 ##  :red_circle: Description
-for detailed description read **Parking_System** file.
+For detailed description read [Parking_System](https://github.com/marina5518/Parking_System/blob/main/Parking_System.pdf) file.
 
 ## :busts_in_silhouette: Collaborators
-
+- Clark Remon [![@Clark605](https://img.shields.io/badge/GitHub-Clark605-black?logo=github)](https://github.com/Clark605) 
+- Lenah Mahmoud [![@lenahmahmoud](https://img.shields.io/badge/GitHub-lenahmahmoud-black?logo=github)](https://github.com/lenahmahmoud)
+- Kerolos Akmal
+- Michael Gayed
 
 
 
